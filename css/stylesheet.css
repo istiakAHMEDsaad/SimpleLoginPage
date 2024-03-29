@@ -1,6 +1,11 @@
-@font-face {
+/*@font-face {
     font-family: "JetBrains Mono";
     src: url('fonts/JetBrainsMonoNL-Regular.ttf');
+}*/
+
+@font-face {
+    font-family: "Poppins";
+    src: url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 }
 
 * {
@@ -8,7 +13,7 @@
     padding: 0;
     box-sizing: border-box;
     text-decoration: none;
-    font-family: "JetBrains Mono";
+    font-family: "Poppins";
 }
 
 body {
