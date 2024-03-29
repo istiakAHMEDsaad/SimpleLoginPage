@@ -1,2 +1,4 @@
-# SimpleLoginPage
-Simple login page with light up button
+# Resource
+
+Font: https://www.jetbrains.com/lp/mono/</br>
+Icon: https://fontawesome.com/
